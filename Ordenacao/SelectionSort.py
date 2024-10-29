@@ -33,7 +33,7 @@ Entrada: 3, 8, 9, 6, 7, 16, 35, 92, 71, 38, 84, 27
 Saída esperada: 3, 6, 7, 8, 9, 16, 27, 35, 38, 71, 84, 92
 """
 
-lista = [9, 8, 7, 6, 5, 4, 3, 2, 1]
+lista = [3, 8, 9, 6, 7, 16, 35, 92, 71, 38, 84, 27]
 
 print('Lista antes da ordenação: ')
 print(lista)
